@@ -1,1 +1,0 @@
-# Sunny-digital-namecard
