@@ -3,10 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Sunny;;;
 FN: Sunny W. Lim (Ext 112) 
-ORG:MEEK (by 8978 Pte Ltd);
+ORG:MEEK;
 TITLE:Renovation EXpert, Design Lead
 EMAIL;type=INTERNET;type=WORK;type=pref:sunny@meekreno.com
-TEL;type=WORK;type=VOICE:+65 8772 8978
 TEL;type=WORK;type=VOICE:+65 3158 7481
 item1.ADR;type=WORK;type=pref:;;777 Upper Serangoon Road\n#01-04, Sai Ho Building.;;;534645;Singapore
 item1.X-ABADR:sg
